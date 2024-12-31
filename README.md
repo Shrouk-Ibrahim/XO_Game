@@ -1,16 +1,22 @@
-# xo
+# XO Game
 
-A new Flutter project.
+The XO Game is a classic two-player game developed using **Flutter**. The app allows two players to play a game of Tic-Tac-Toe (XO), where one player uses 'X' and the other uses 'O'. It keeps track of scores and offers a simple, user-friendly interface for gameplay.
 
-## Getting Started
+## What It Does
 
-This project is a starting point for a Flutter application.
+- **Player Name Input Screen**: Allows players to input their names.
+- **GameBoard Screen**: Displays the Tic-Tac-Toe board, and players can interact with the board to make their moves. Players alternate between 'X' and 'O'.
+- **Score Keeping**: The game keeps track of the scores for each player.
 
-A few resources to get you started if this is your first Flutter project:
+## Key Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Simple gameplay for two players.
+- Score tracking for each player.
+- Resetting the board when a player wins or when the board is full (draw).
+- Interactive UI with Flutter.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Demo Video
+
+Check out the demo video for a quick overview of the app:
+[Demo Video](https://drive.google.com/file/d/1nW4SdmOA1SL40IqosBb9htaqMsevwpbD/view?usp=drive_link)
+
